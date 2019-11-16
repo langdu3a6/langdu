@@ -1,3 +1,14 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am langdu3a6 on github.
+  * I am l4ngdu36 (https://keybase.io/l4ngdu36) on keybase.
+  * I have a public key ASAWlpx8lRwpJtyvOFzG0ccHnYukbf5C6u8WGSzXPvrNSwo
+
+To claim this, I am signing this object:
+
+```json
 {
   "body": {
     "key": {
@@ -31,3 +42,26 @@
   "seqno": 5,
   "tag": "signature"
 }
+```
+
+with the key [ASAWlpx8lRwpJtyvOFzG0ccHnYukbf5C6u8WGSzXPvrNSwo](https://keybase.io/l4ngdu36), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFpacfJUcKSbcrzhcxtHHB52LpG3+QurvFhks1z76zUsKp3BheWxvYWTESpcCBcQgWt7Hlj91CPsogXCg2CnnvE6UnpB+Wu/UIgYsigvNDwDEIEClrJV+ZcfzbErI7Ek7FfJHGQgJlYPXv8EtfTP3iJjMAgHCo3NpZ8RAVJxcA40sWF69KMeQS0MsYRk75iThNCIiBjR8oYcw81X0ne7gNrXS8fIRrF8VkV2kW3/E3GscFTtbvDnclISCAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFjjWMZIhtoET85ua9emxbDIud2DjbH4wBSILhrCqSAOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/l4ngdu36
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id l4ngdu36
+```
